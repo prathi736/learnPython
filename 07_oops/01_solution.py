@@ -27,7 +27,7 @@ class Car:
     def general_description():
         return "Every Car has 4 Wheels."
     
-    @property # this decorator convereted method into property
+    @property # this decorator converted method into property
     def model(self):
         return self.__model
 

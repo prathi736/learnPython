@@ -1,1 +1,1 @@
-[{"name": "Python", "time": "30min"}, {"name": "C++", "time": "15hrs"}]
+[{"name": "Python", "time": "30min"}, {"name": "Java", "time": "4hr"}]
